@@ -5,7 +5,7 @@ from dotenv import dotenv_values
 app = Flask(__name__)
 config = dotenv_values("/Users/jeff/Desktop/api_key.env")
 
-# 你的 API 金鑰
+#API Keys
 openai.api_key = config["API_KEY"]
 
 def generate_blog(topic):
