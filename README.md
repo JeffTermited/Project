@@ -1,2 +1,1 @@
-# Project
-# Generate a Blog with OpenAI
+# Project Generate a Blog with OpenAI
